@@ -1,0 +1,15 @@
+D:\git\Final_example\Example\Exam\bin\Debug\net6.0\Exam.exe
+D:\git\Final_example\Example\Exam\bin\Debug\net6.0\Exam.deps.json
+D:\git\Final_example\Example\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+D:\git\Final_example\Example\Exam\bin\Debug\net6.0\Exam.dll
+D:\git\Final_example\Example\Exam\bin\Debug\net6.0\Exam.pdb
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.dll
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\refint\Exam.dll
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.pdb
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+D:\git\Final_example\Example\Exam\obj\Debug\net6.0\ref\Exam.dll
